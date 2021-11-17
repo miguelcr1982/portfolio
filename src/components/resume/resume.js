@@ -44,7 +44,7 @@ const Resume = () => {
                         <div className="resume-block__header">
                             <h4 className="h3">Universidad Hispanoamericana</h4>
                             <p className="resume-block__header-meta">
-                                <span>Ingeniería Informaica</span>
+                                <span>Ingeniería Informática</span>
                                 <span className="resume-block__header-date">2006</span>
                             </p>
                         </div>
